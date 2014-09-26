@@ -1,0 +1,12 @@
+#chatSession
+{
+    width: 400px;
+    height: 400px;
+}
+
+#chatInput
+{
+    width: 400px;
+    border: 1px solid #000000;
+    line-height: 30px;
+}
